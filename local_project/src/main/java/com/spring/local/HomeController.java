@@ -30,6 +30,8 @@ public class HomeController {
 		
 		
 		System.out.println("Çï·Î ¼­ºí¸´");
+		
+		System.out.println("Çï·Î CSS");
 		return "home";
 	}
 	
