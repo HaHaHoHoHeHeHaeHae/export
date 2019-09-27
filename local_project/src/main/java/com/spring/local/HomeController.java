@@ -26,6 +26,7 @@ public class HomeController {
 	public String home(Locale locale, Model model) {
 		
 		System.out.println("헬로 자바");
+		System.out.println("헬로 제이에스피");
 		
 		return "home";
 	}
