@@ -28,6 +28,8 @@ public class HomeController {
 		System.out.println("Çï·Î ÀÚ¹Ù");
 		System.out.println("Çï·Î Á¦ÀÌ¿¡½ºÇÇ");
 		
+		
+		System.out.println("Çï·Î ¼­ºí¸´");
 		return "home";
 	}
 	
